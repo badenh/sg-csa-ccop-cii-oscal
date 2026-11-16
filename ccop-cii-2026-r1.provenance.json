@@ -1,0 +1,18 @@
+{
+  "builder": "sg-csa-ccop-cii-oscal-builder",
+  "builder_version": "0.1.0",
+  "builder_commit": "8b48700b814366fcaa50aa7f258ab5904edf57d2",
+  "built_at": "2026-11-16T06:18:56+00:00",
+  "release_slug": "2026-r1",
+  "source": {
+    "title": "Cybersecurity Code of Practice for Critical Information Infrastructure",
+    "version": "2026 Release 1",
+    "publisher": "Cyber Security Agency of Singapore",
+    "published": "2026-07-29",
+    "url": "https://isomer-user-content.by.gov.sg/36/8b555ddb-16ab-486c-9fda-e12197a4e320/Cybersecurity%20Code%20of%20Practice%20(2026).pdf",
+    "sha256": "7e884fff4d1e22e5fa5e5e0350764ce4ffecb21933804afe4d48fd6ac54b5026",
+    "copyright": "(c) Government of Singapore (issued by CSA under the Cybersecurity Act 2018)"
+  },
+  "conversion_license": "Apache-2.0",
+  "conversion_author": "Baden Hughes <baden.hughes@gmail.com>"
+}

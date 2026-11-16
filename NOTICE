@@ -1,0 +1,45 @@
+sg-csa-ccop-cii-oscal
+=====================
+
+This repository publishes OSCAL 1.1.2 conversion artifacts derived from the
+Cybersecurity Code of Practice for Critical Information Infrastructure (CCoP)
+issued by the Cyber Security Agency of Singapore under section 35A of the
+Cybersecurity Act 2018.
+
+Source documents
+----------------
+
+Title:    Cybersecurity Code of Practice for Critical Information Infrastructure
+Issuer:   Cyber Security Agency of Singapore (CSA)
+Legal:    section 35A, Cybersecurity Act 2018
+Landing:  https://www.csa.gov.sg/legislation/codes-of-practice/
+
+Releases included in this repository:
+
+  Slug      Version                        Effective      Source PDF
+  --------  -----------------------------  -------------  --------------------------------
+  2022-r1   Second Edition, Revision 1     2022-12-12     CCoP---Second-Edition_Revision-One.pdf
+  2026-r1   2026 Release 1                 2026-07-29     Cybersecurity Code of Practice (2026).pdf
+
+The source content remains (c) Government of Singapore. The upstream PDFs
+are the authoritative text; the OSCAL rendering in this repository is
+unofficial.
+
+The source PDFs are NOT redistributed from this repository. The `rlinks` in
+each `catalog.json` point to the canonical CSA URL, and each PDF's SHA256 is
+recorded in the matching `provenance.json` so that downstream consumers can
+reproduce the exact build.
+
+Conversion
+----------
+
+Author:   Baden Hughes <baden.hughes@gmail.com>
+License:  Apache License, Version 2.0
+          (applies to the conversion artifacts in this repository:
+           ccop-cii-<slug>.catalog.{json,yaml,md}, ccop-cii-<slug>.provenance.json,
+           and the supporting documentation files)
+Builder:  https://github.com/badenh/sg-csa-ccop-cii-oscal-builder
+
+Any downstream artifact that embeds text derived from a CCoP release must
+retain the CSA / Government of Singapore copyright notice and clearly
+identify itself as an unofficial machine-readable rendering.
