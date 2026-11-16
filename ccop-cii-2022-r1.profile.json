@@ -1,0 +1,120 @@
+{
+  "profile": {
+    "uuid": "2e1cf167-599c-5bf3-9484-6b08b9cad215",
+    "metadata": {
+      "title": "Cybersecurity Code of Practice for Critical Information Infrastructure — Baseline Profile (2022 Second Edition Revision 1)",
+      "last-modified": "2026-11-16T07:01:54Z",
+      "version": "2022 Second Edition Revision 1",
+      "oscal-version": "1.1.2",
+      "props": [
+        {
+          "name": "short-name",
+          "value": "SG CSA CCoP CII",
+          "ns": "https://baden.id/ns/ccop-cii"
+        },
+        {
+          "name": "publisher",
+          "value": "Cyber Security Agency of Singapore",
+          "ns": "https://baden.id/ns/ccop-cii"
+        },
+        {
+          "name": "published",
+          "value": "2022-12-12",
+          "ns": "https://baden.id/ns/ccop-cii"
+        },
+        {
+          "name": "release-slug",
+          "value": "2022-r1",
+          "ns": "https://baden.id/ns/ccop-cii"
+        },
+        {
+          "name": "profile-type",
+          "value": "baseline",
+          "ns": "https://baden.id/ns/ccop-cii"
+        },
+        {
+          "name": "copyright",
+          "ns": "https://baden.id/ns/ccop-cii",
+          "value": "Source document (c) Government of Singapore, issued by the Cyber Security Agency of Singapore under the Cybersecurity Act 2018. OSCAL conversion (c) Baden Hughes, licensed Apache-2.0."
+        }
+      ],
+      "links": [
+        {
+          "href": "https://isomer-user-content.by.gov.sg/36/2df750a7-a3bc-4d77-a492-d64f0ff4db5a/CCoP---Second-Edition_Revision-One.pdf",
+          "rel": "canonical",
+          "media-type": "application/pdf"
+        }
+      ],
+      "roles": [
+        {
+          "id": "publisher",
+          "title": "Publisher"
+        },
+        {
+          "id": "converter",
+          "title": "OSCAL Converter"
+        }
+      ],
+      "parties": [
+        {
+          "uuid": "1d2e3f72-2cc2-5cb4-8030-25c7beb12049",
+          "type": "organization",
+          "name": "Cyber Security Agency of Singapore",
+          "short-name": "CSA",
+          "links": [
+            {
+              "href": "https://www.csa.gov.sg/",
+              "rel": "homepage"
+            }
+          ]
+        },
+        {
+          "uuid": "f3b186c7-3702-5a41-a8eb-a7f33aebc1bb",
+          "type": "person",
+          "name": "Baden Hughes",
+          "email-addresses": [
+            "baden.hughes@gmail.com"
+          ]
+        }
+      ],
+      "responsible-parties": [
+        {
+          "role-id": "publisher",
+          "party-uuids": [
+            "1d2e3f72-2cc2-5cb4-8030-25c7beb12049"
+          ]
+        },
+        {
+          "role-id": "converter",
+          "party-uuids": [
+            "f3b186c7-3702-5a41-a8eb-a7f33aebc1bb"
+          ]
+        }
+      ]
+    },
+    "imports": [
+      {
+        "href": "ccop-cii-2022-r1.catalog.json",
+        "include-all": {}
+      }
+    ],
+    "merge": {
+      "as-is": true
+    },
+    "back-matter": {
+      "resources": [
+        {
+          "uuid": "12d42e56-66a1-52d6-bf63-3afa70380ae3",
+          "title": "Cybersecurity Code of Practice for Critical Information Infrastructure — Catalog (2022 Second Edition Revision 1)",
+          "description": "Sibling OSCAL catalog from which this profile selects all controls. Resolve the profile to materialise them.",
+          "rlinks": [
+            {
+              "href": "ccop-cii-2022-r1.catalog.json",
+              "media-type": "application/json"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

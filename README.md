@@ -16,8 +16,8 @@ release slug so multiple versions coexist cleanly in the same consumer.
 
 | Slug | Version | Effective | Source PDF | Catalog (rendered) |
 |---|---|---|---|---|
-| `2022-r1` | Second Edition, Revision 1 | 2022-12-12 | [CCoP 2022](https://isomer-user-content.by.gov.sg/36/2df750a7-a3bc-4d77-a492-d64f0ff4db5a/CCoP---Second-Edition_Revision-One.pdf) | [ccop-cii-2022-r1.catalog.md](./ccop-cii-2022-r1.catalog.md) · [.json](./ccop-cii-2022-r1.catalog.json) · [.yaml](./ccop-cii-2022-r1.catalog.yaml) · [provenance](./ccop-cii-2022-r1.provenance.json) |
-| `2026-r1` | 2026 Release 1 | 2026-07-29 | [CCoP 2026](https://isomer-user-content.by.gov.sg/36/8b555ddb-16ab-486c-9fda-e12197a4e320/Cybersecurity%20Code%20of%20Practice%20(2026).pdf) | [ccop-cii-2026-r1.catalog.md](./ccop-cii-2026-r1.catalog.md) · [.json](./ccop-cii-2026-r1.catalog.json) · [.yaml](./ccop-cii-2026-r1.catalog.yaml) · [provenance](./ccop-cii-2026-r1.provenance.json) |
+| `2022-r1` | Second Edition, Revision 1 | 2022-12-12 | [CCoP 2022](https://isomer-user-content.by.gov.sg/36/2df750a7-a3bc-4d77-a492-d64f0ff4db5a/CCoP---Second-Edition_Revision-One.pdf) | [catalog.md](./ccop-cii-2022-r1.catalog.md) · [.json](./ccop-cii-2022-r1.catalog.json) · [.yaml](./ccop-cii-2022-r1.catalog.yaml) · [profile](./ccop-cii-2022-r1.profile.json) · [resolved](./ccop-cii-2022-r1.resolved.catalog.json) · [provenance](./ccop-cii-2022-r1.provenance.json) |
+| `2026-r1` | 2026 Release 1 | 2026-07-29 | [CCoP 2026](https://isomer-user-content.by.gov.sg/36/8b555ddb-16ab-486c-9fda-e12197a4e320/Cybersecurity%20Code%20of%20Practice%20(2026).pdf) | [catalog.md](./ccop-cii-2026-r1.catalog.md) · [.json](./ccop-cii-2026-r1.catalog.json) · [.yaml](./ccop-cii-2026-r1.catalog.yaml) · [profile](./ccop-cii-2026-r1.profile.json) · [resolved](./ccop-cii-2026-r1.resolved.catalog.json) · [provenance](./ccop-cii-2026-r1.provenance.json) |
 
 ## Contents (per release)
 
@@ -26,6 +26,8 @@ release slug so multiple versions coexist cleanly in the same consumer.
 | `ccop-cii-<slug>.catalog.json` | OSCAL 1.1.2 catalog (canonical) |
 | `ccop-cii-<slug>.catalog.yaml` | Same catalog, YAML serialisation |
 | `ccop-cii-<slug>.catalog.md`   | Human-readable rendering |
+| `ccop-cii-<slug>.profile.json` | OSCAL 1.1.2 baseline profile (`include-all` of the sibling catalog) |
+| `ccop-cii-<slug>.resolved.catalog.json` | Resolved form of the baseline profile (catalog shape, controls materialised) |
 | `ccop-cii-<slug>.provenance.json` | Builder commit SHA, source URL, PDF SHA256, build time |
 
 Plus shared `CHANGELOG.md`, `NOTICE`, `LICENSE`.
@@ -37,9 +39,21 @@ Plus shared `CHANGELOG.md`, `NOTICE`, `LICENSE`.
 | `2022-r1` | 11 | 51 | 178 | 3 (source PDF, Document History, Annex A) |
 | `2026-r1` | 12 | 60 | 218 | 4 (source PDF, Document History, Compliance Timeline, Annex A) |
 
+## Profiles
+
+Each release ships a **baseline profile** that selects every control from
+the sibling catalog (`include-all`, `merge: as-is`) plus its **resolved**
+form — a catalog produced by running `oscal-cli resolve-profile` on the
+profile. Consumers can:
+
+- Import the profile directly from an SSP or higher-level profile to
+  layer further tailoring on top.
+- Consume the resolved catalog as a drop-in replacement for the raw
+  catalog when they want a stable, resolver-ready snapshot.
+
 ## Validation
 
-Each catalog validates clean against:
+Catalog, profile, and resolved catalog each validate clean against:
 - OSCAL 1.1.2 JSON Schema
 - [`oscal-cli`](https://github.com/metaschema-framework/oscal-cli) 3.2.0
   (metaschema + Schematron constraints)
@@ -114,13 +128,20 @@ for slug in ("2022-r1", "2026-r1"):
     print(slug, cat["metadata"]["title"], cat["metadata"]["version"])
 ```
 
-Or from an OSCAL profile that imports a specific release by URL:
+Or import the shipped baseline profile directly:
 
 ```yaml
 profile:
   imports:
-    - href: "https://raw.githubusercontent.com/badenh/sg-csa-ccop-cii-oscal/main/ccop-cii-2026-r1.catalog.json"
+    - href: "https://raw.githubusercontent.com/badenh/sg-csa-ccop-cii-oscal/main/ccop-cii-2026-r1.profile.json"
       include-all: {}
+```
+
+Or consume the resolved catalog as a drop-in when you want all
+controls materialised already:
+
+```python
+cat = httpx.get(f"{RAW}/ccop-cii-2026-r1.resolved.catalog.json").json()["catalog"]
 ```
 
 ## Reporting issues
