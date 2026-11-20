@@ -1,8 +1,8 @@
 {
   "builder": "sg-csa-ccop-cii-oscal-builder",
   "builder_version": "0.1.0",
-  "builder_commit": "14e0f49dd3bf3ae3363138e8d5f37aeca08ea884",
-  "built_at": "2026-11-16T07:01:54+00:00",
+  "builder_commit": "86eb985021a257c848cac6f24973f057b293ec35",
+  "built_at": "2026-11-20T04:02:49+00:00",
   "release_slug": "2022-r1",
   "source": {
     "title": "Cybersecurity Code of Practice for Critical Information Infrastructure",

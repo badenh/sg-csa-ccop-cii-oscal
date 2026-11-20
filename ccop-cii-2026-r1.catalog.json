@@ -3,33 +3,33 @@
     "uuid": "162e62c7-8858-510c-8811-fa7886dc8cb1",
     "metadata": {
       "title": "Cybersecurity Code of Practice for Critical Information Infrastructure",
-      "last-modified": "2026-11-16T07:02:03Z",
+      "last-modified": "2026-11-20T04:05:22Z",
       "version": "2026 Release 1",
       "oscal-version": "1.1.2",
       "props": [
         {
           "name": "short-name",
           "value": "SG CSA CCoP CII",
-          "ns": "https://baden.id/ns/ccop-cii"
+          "ns": "https://csa.gov.sg/ns/ccop-cii"
         },
         {
           "name": "publisher",
           "value": "Cyber Security Agency of Singapore",
-          "ns": "https://baden.id/ns/ccop-cii"
+          "ns": "https://csa.gov.sg/ns/ccop-cii"
         },
         {
           "name": "published",
           "value": "2026-07-29",
-          "ns": "https://baden.id/ns/ccop-cii"
+          "ns": "https://csa.gov.sg/ns/ccop-cii"
         },
         {
           "name": "release-slug",
           "value": "2026-r1",
-          "ns": "https://baden.id/ns/ccop-cii"
+          "ns": "https://csa.gov.sg/ns/ccop-cii"
         },
         {
           "name": "copyright",
-          "ns": "https://baden.id/ns/ccop-cii",
+          "ns": "https://csa.gov.sg/ns/ccop-cii",
           "value": "Source document (c) Government of Singapore, issued by the Cyber Security Agency of Singapore under the Cybersecurity Act 2018. OSCAL conversion (c) Baden Hughes, licensed Apache-2.0."
         }
       ],
@@ -133,7 +133,7 @@
                   {
                     "name": "source-page",
                     "value": "7",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -169,7 +169,7 @@
                   {
                     "name": "source-page",
                     "value": "7",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -192,7 +192,7 @@
                   {
                     "name": "source-page",
                     "value": "13",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -215,7 +215,7 @@
                   {
                     "name": "source-page",
                     "value": "13",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -238,7 +238,7 @@
                   {
                     "name": "source-page",
                     "value": "13",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -261,7 +261,7 @@
                   {
                     "name": "source-page",
                     "value": "13",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -284,7 +284,7 @@
                   {
                     "name": "source-page",
                     "value": "13",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -307,7 +307,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -343,7 +343,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -366,7 +366,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -402,7 +402,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -425,7 +425,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -448,7 +448,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -471,7 +471,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -494,7 +494,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -517,7 +517,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -540,7 +540,7 @@
                   {
                     "name": "source-page",
                     "value": "14",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -576,7 +576,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -599,7 +599,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -635,7 +635,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -658,7 +658,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -681,7 +681,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -717,7 +717,7 @@
                   {
                     "name": "source-page",
                     "value": "15",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -780,7 +780,7 @@
                   {
                     "name": "source-page",
                     "value": "16",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -803,7 +803,7 @@
                   {
                     "name": "source-page",
                     "value": "16",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -826,7 +826,7 @@
                   {
                     "name": "source-page",
                     "value": "16",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -849,7 +849,7 @@
                   {
                     "name": "source-page",
                     "value": "16",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -912,7 +912,7 @@
                   {
                     "name": "source-page",
                     "value": "17",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -935,7 +935,7 @@
                   {
                     "name": "source-page",
                     "value": "17",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -958,7 +958,7 @@
                   {
                     "name": "source-page",
                     "value": "18",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -981,7 +981,7 @@
                   {
                     "name": "source-page",
                     "value": "18",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1004,7 +1004,7 @@
                   {
                     "name": "source-page",
                     "value": "18",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1047,7 +1047,7 @@
                   {
                     "name": "source-page",
                     "value": "19",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1070,7 +1070,7 @@
                   {
                     "name": "source-page",
                     "value": "20",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1093,7 +1093,7 @@
                   {
                     "name": "source-page",
                     "value": "20",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1116,7 +1116,7 @@
                   {
                     "name": "source-page",
                     "value": "20",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1159,7 +1159,7 @@
                   {
                     "name": "source-page",
                     "value": "20",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1182,7 +1182,7 @@
                   {
                     "name": "source-page",
                     "value": "21",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1205,7 +1205,7 @@
                   {
                     "name": "source-page",
                     "value": "21",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1248,7 +1248,7 @@
                   {
                     "name": "source-page",
                     "value": "21",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1271,7 +1271,7 @@
                   {
                     "name": "source-page",
                     "value": "22",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1294,7 +1294,7 @@
                   {
                     "name": "source-page",
                     "value": "22",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1317,7 +1317,7 @@
                   {
                     "name": "source-page",
                     "value": "22",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1340,7 +1340,7 @@
                   {
                     "name": "source-page",
                     "value": "23",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1383,7 +1383,7 @@
                   {
                     "name": "source-page",
                     "value": "23",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1406,7 +1406,7 @@
                   {
                     "name": "source-page",
                     "value": "23",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1429,7 +1429,7 @@
                   {
                     "name": "source-page",
                     "value": "23",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1472,7 +1472,7 @@
                   {
                     "name": "source-page",
                     "value": "24",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1515,7 +1515,7 @@
                   {
                     "name": "source-page",
                     "value": "24",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1538,7 +1538,7 @@
                   {
                     "name": "source-page",
                     "value": "24",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1581,7 +1581,7 @@
                   {
                     "name": "source-page",
                     "value": "25",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1624,7 +1624,7 @@
                   {
                     "name": "source-page",
                     "value": "25",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1647,7 +1647,7 @@
                   {
                     "name": "source-page",
                     "value": "25",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1670,7 +1670,7 @@
                   {
                     "name": "source-page",
                     "value": "25",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1693,7 +1693,7 @@
                   {
                     "name": "source-page",
                     "value": "26",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1736,7 +1736,7 @@
                   {
                     "name": "source-page",
                     "value": "26",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1759,7 +1759,7 @@
                   {
                     "name": "source-page",
                     "value": "26",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1782,7 +1782,7 @@
                   {
                     "name": "source-page",
                     "value": "26",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1805,7 +1805,7 @@
                   {
                     "name": "source-page",
                     "value": "27",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1828,7 +1828,7 @@
                   {
                     "name": "source-page",
                     "value": "27",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1891,7 +1891,7 @@
                   {
                     "name": "source-page",
                     "value": "28",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1914,7 +1914,7 @@
                   {
                     "name": "source-page",
                     "value": "29",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1937,7 +1937,7 @@
                   {
                     "name": "source-page",
                     "value": "29",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -1960,7 +1960,7 @@
                   {
                     "name": "source-page",
                     "value": "29",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2023,7 +2023,7 @@
                   {
                     "name": "source-page",
                     "value": "30",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2046,7 +2046,7 @@
                   {
                     "name": "source-page",
                     "value": "30",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2069,7 +2069,7 @@
                   {
                     "name": "source-page",
                     "value": "30",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2092,7 +2092,7 @@
                   {
                     "name": "source-page",
                     "value": "30",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2135,7 +2135,7 @@
                   {
                     "name": "source-page",
                     "value": "31",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2158,7 +2158,7 @@
                   {
                     "name": "source-page",
                     "value": "31",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2201,7 +2201,7 @@
                   {
                     "name": "source-page",
                     "value": "32",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2244,7 +2244,7 @@
                   {
                     "name": "source-page",
                     "value": "33",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2287,7 +2287,7 @@
                   {
                     "name": "source-page",
                     "value": "33",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2310,7 +2310,7 @@
                   {
                     "name": "source-page",
                     "value": "33",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2333,7 +2333,7 @@
                   {
                     "name": "source-page",
                     "value": "33",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2376,7 +2376,7 @@
                   {
                     "name": "source-page",
                     "value": "34",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2399,7 +2399,7 @@
                   {
                     "name": "source-page",
                     "value": "34",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2422,7 +2422,7 @@
                   {
                     "name": "source-page",
                     "value": "34",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2465,7 +2465,7 @@
                   {
                     "name": "source-page",
                     "value": "34",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2488,7 +2488,7 @@
                   {
                     "name": "source-page",
                     "value": "35",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2531,7 +2531,7 @@
                   {
                     "name": "source-page",
                     "value": "35",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2574,7 +2574,7 @@
                   {
                     "name": "source-page",
                     "value": "36",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2597,7 +2597,7 @@
                   {
                     "name": "source-page",
                     "value": "36",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2620,7 +2620,7 @@
                   {
                     "name": "source-page",
                     "value": "37",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2643,7 +2643,7 @@
                   {
                     "name": "source-page",
                     "value": "37",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2686,7 +2686,7 @@
                   {
                     "name": "source-page",
                     "value": "37",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2709,7 +2709,7 @@
                   {
                     "name": "source-page",
                     "value": "38",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2752,7 +2752,7 @@
                   {
                     "name": "source-page",
                     "value": "38",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2775,7 +2775,7 @@
                   {
                     "name": "source-page",
                     "value": "38",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2798,7 +2798,7 @@
                   {
                     "name": "source-page",
                     "value": "38",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2821,7 +2821,7 @@
                   {
                     "name": "source-page",
                     "value": "38",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2864,7 +2864,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2887,7 +2887,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2910,7 +2910,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2933,7 +2933,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2956,7 +2956,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -2979,7 +2979,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3002,7 +3002,7 @@
                   {
                     "name": "source-page",
                     "value": "39",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3045,7 +3045,7 @@
                   {
                     "name": "source-page",
                     "value": "40",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3068,7 +3068,7 @@
                   {
                     "name": "source-page",
                     "value": "40",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3091,7 +3091,7 @@
                   {
                     "name": "source-page",
                     "value": "40",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3114,7 +3114,7 @@
                   {
                     "name": "source-page",
                     "value": "40",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3137,7 +3137,7 @@
                   {
                     "name": "source-page",
                     "value": "40",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3180,7 +3180,7 @@
                   {
                     "name": "source-page",
                     "value": "41",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3203,7 +3203,7 @@
                   {
                     "name": "source-page",
                     "value": "41",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3226,7 +3226,7 @@
                   {
                     "name": "source-page",
                     "value": "41",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3249,7 +3249,7 @@
                   {
                     "name": "source-page",
                     "value": "41",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3272,7 +3272,7 @@
                   {
                     "name": "source-page",
                     "value": "41",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3315,7 +3315,7 @@
                   {
                     "name": "source-page",
                     "value": "42",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3338,7 +3338,7 @@
                   {
                     "name": "source-page",
                     "value": "42",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3361,7 +3361,7 @@
                   {
                     "name": "source-page",
                     "value": "42",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3384,7 +3384,7 @@
                   {
                     "name": "source-page",
                     "value": "43",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3407,7 +3407,7 @@
                   {
                     "name": "source-page",
                     "value": "43",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3450,7 +3450,7 @@
                   {
                     "name": "source-page",
                     "value": "43",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3473,7 +3473,7 @@
                   {
                     "name": "source-page",
                     "value": "43",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3496,7 +3496,7 @@
                   {
                     "name": "source-page",
                     "value": "43",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3539,7 +3539,7 @@
                   {
                     "name": "source-page",
                     "value": "44",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3562,7 +3562,7 @@
                   {
                     "name": "source-page",
                     "value": "44",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3625,7 +3625,7 @@
                   {
                     "name": "source-page",
                     "value": "45",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3648,7 +3648,7 @@
                   {
                     "name": "source-page",
                     "value": "45",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3671,7 +3671,7 @@
                   {
                     "name": "source-page",
                     "value": "45",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3694,7 +3694,7 @@
                   {
                     "name": "source-page",
                     "value": "46",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3737,7 +3737,7 @@
                   {
                     "name": "source-page",
                     "value": "46",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3760,7 +3760,7 @@
                   {
                     "name": "source-page",
                     "value": "47",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3783,7 +3783,7 @@
                   {
                     "name": "source-page",
                     "value": "47",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3806,7 +3806,7 @@
                   {
                     "name": "source-page",
                     "value": "47",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3849,7 +3849,7 @@
                   {
                     "name": "source-page",
                     "value": "48",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3872,7 +3872,7 @@
                   {
                     "name": "source-page",
                     "value": "48",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3895,7 +3895,7 @@
                   {
                     "name": "source-page",
                     "value": "48",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3918,7 +3918,7 @@
                   {
                     "name": "source-page",
                     "value": "48",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3961,7 +3961,7 @@
                   {
                     "name": "source-page",
                     "value": "48",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -3984,7 +3984,7 @@
                   {
                     "name": "source-page",
                     "value": "49",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4007,7 +4007,7 @@
                   {
                     "name": "source-page",
                     "value": "49",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4070,7 +4070,7 @@
                   {
                     "name": "source-page",
                     "value": "50",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4093,7 +4093,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4116,7 +4116,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4139,7 +4139,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4162,7 +4162,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4185,7 +4185,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4208,7 +4208,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4231,7 +4231,7 @@
                   {
                     "name": "source-page",
                     "value": "51",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4274,7 +4274,7 @@
                   {
                     "name": "source-page",
                     "value": "52",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4297,7 +4297,7 @@
                   {
                     "name": "source-page",
                     "value": "52",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4320,7 +4320,7 @@
                   {
                     "name": "source-page",
                     "value": "52",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4343,7 +4343,7 @@
                   {
                     "name": "source-page",
                     "value": "52",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4366,7 +4366,7 @@
                   {
                     "name": "source-page",
                     "value": "53",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4409,7 +4409,7 @@
                   {
                     "name": "source-page",
                     "value": "53",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4432,7 +4432,7 @@
                   {
                     "name": "source-page",
                     "value": "53",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4455,7 +4455,7 @@
                   {
                     "name": "source-page",
                     "value": "53",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4478,7 +4478,7 @@
                   {
                     "name": "source-page",
                     "value": "54",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4501,7 +4501,7 @@
                   {
                     "name": "source-page",
                     "value": "54",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4524,7 +4524,7 @@
                   {
                     "name": "source-page",
                     "value": "54",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4547,7 +4547,7 @@
                   {
                     "name": "source-page",
                     "value": "54",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4570,7 +4570,7 @@
                   {
                     "name": "source-page",
                     "value": "55",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4593,7 +4593,7 @@
                   {
                     "name": "source-page",
                     "value": "55",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4616,7 +4616,7 @@
                   {
                     "name": "source-page",
                     "value": "55",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4679,7 +4679,7 @@
                   {
                     "name": "source-page",
                     "value": "56",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4702,7 +4702,7 @@
                   {
                     "name": "source-page",
                     "value": "56",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4725,7 +4725,7 @@
                   {
                     "name": "source-page",
                     "value": "56",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4748,7 +4748,7 @@
                   {
                     "name": "source-page",
                     "value": "56",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4771,7 +4771,7 @@
                   {
                     "name": "source-page",
                     "value": "56",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4814,7 +4814,7 @@
                   {
                     "name": "source-page",
                     "value": "57",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4837,7 +4837,7 @@
                   {
                     "name": "source-page",
                     "value": "57",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4860,7 +4860,7 @@
                   {
                     "name": "source-page",
                     "value": "57",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4883,7 +4883,7 @@
                   {
                     "name": "source-page",
                     "value": "57",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4906,7 +4906,7 @@
                   {
                     "name": "source-page",
                     "value": "57",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4969,7 +4969,7 @@
                   {
                     "name": "source-page",
                     "value": "58",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -4992,7 +4992,7 @@
                   {
                     "name": "source-page",
                     "value": "58",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5015,7 +5015,7 @@
                   {
                     "name": "source-page",
                     "value": "58",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5058,7 +5058,7 @@
                   {
                     "name": "source-page",
                     "value": "59",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5081,7 +5081,7 @@
                   {
                     "name": "source-page",
                     "value": "59",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5104,7 +5104,7 @@
                   {
                     "name": "source-page",
                     "value": "59",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5127,7 +5127,7 @@
                   {
                     "name": "source-page",
                     "value": "59",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5150,7 +5150,7 @@
                   {
                     "name": "source-page",
                     "value": "59",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5199,7 +5199,7 @@
                   {
                     "name": "source-page",
                     "value": "60",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5222,7 +5222,7 @@
                   {
                     "name": "source-page",
                     "value": "60",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5265,7 +5265,7 @@
                   {
                     "name": "source-page",
                     "value": "61",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5288,7 +5288,7 @@
                   {
                     "name": "source-page",
                     "value": "61",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5311,7 +5311,7 @@
                   {
                     "name": "source-page",
                     "value": "61",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5334,7 +5334,7 @@
                   {
                     "name": "source-page",
                     "value": "61",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5357,7 +5357,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5380,7 +5380,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5403,7 +5403,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5446,7 +5446,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5469,7 +5469,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5492,7 +5492,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5515,7 +5515,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5538,7 +5538,7 @@
                   {
                     "name": "source-page",
                     "value": "62",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5561,7 +5561,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5584,7 +5584,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5627,7 +5627,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5650,7 +5650,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5673,7 +5673,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5696,7 +5696,7 @@
                   {
                     "name": "source-page",
                     "value": "63",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5719,7 +5719,7 @@
                   {
                     "name": "source-page",
                     "value": "64",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5793,7 +5793,7 @@
                   {
                     "name": "source-page",
                     "value": "65",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5816,7 +5816,7 @@
                   {
                     "name": "source-page",
                     "value": "65",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5872,7 +5872,7 @@
                   {
                     "name": "source-page",
                     "value": "66",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5895,7 +5895,7 @@
                   {
                     "name": "source-page",
                     "value": "66",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5931,7 +5931,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5954,7 +5954,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -5977,7 +5977,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6000,7 +6000,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6036,7 +6036,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6059,7 +6059,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6082,7 +6082,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6118,7 +6118,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6141,7 +6141,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6164,7 +6164,7 @@
                   {
                     "name": "source-page",
                     "value": "67",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6200,7 +6200,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6223,7 +6223,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6259,7 +6259,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6295,7 +6295,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6318,7 +6318,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6341,7 +6341,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6364,7 +6364,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6387,7 +6387,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6410,7 +6410,7 @@
                   {
                     "name": "source-page",
                     "value": "68",
-                    "ns": "https://baden.id/ns/ccop-cii"
+                    "ns": "https://csa.gov.sg/ns/ccop-cii"
                   }
                 ],
                 "parts": [
@@ -6459,12 +6459,12 @@
             {
               "name": "type",
               "value": "document-history",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             },
             {
               "name": "source-page",
               "value": "2",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             }
           ],
           "rlinks": [
@@ -6482,12 +6482,12 @@
             {
               "name": "type",
               "value": "compliance-timeline",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             },
             {
               "name": "source-page",
               "value": "3",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             }
           ],
           "rlinks": [
@@ -6505,17 +6505,17 @@
             {
               "name": "label",
               "value": "annex-a",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             },
             {
               "name": "type",
               "value": "annex",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             },
             {
               "name": "source-page",
               "value": "70",
-              "ns": "https://baden.id/ns/ccop-cii"
+              "ns": "https://csa.gov.sg/ns/ccop-cii"
             }
           ],
           "rlinks": [
